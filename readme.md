@@ -54,12 +54,6 @@ meu-projeto/
 └── README.md        # Este arquivo
 ```
 
-## Próximos Passos
-
-- Explorar React Router para navegação entre páginas
-- Integrar consumo de APIs com fetch ou Axios
-- Estilização avançada com Styled Components ou Tailwind
-
 ## Licença
 
 Este projeto foi criado apenas para aprendizado e não possui uma licença específica.
